@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsotnechkhenkeli
 - 👀 I’m interested in Front-end programming (html,css,sass,javascript,react,nodejs etc.)
-- 🌱 I’m currently learning react
+
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me tsotnechkhenkeli@gmail.com
 
