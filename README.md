@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tsotnechkhenkeli
-- 👀 I’m interested in Front-end programming (html,css,sass,javascript,react etc.)
+- 👀 I’m interested in Front-end programming (html,css,javascript,react etc.)
 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me tsotnechkhenkeli@gmail.com
